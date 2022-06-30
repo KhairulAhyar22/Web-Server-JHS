@@ -9,7 +9,7 @@ const navMateri = {
         </div>
         <!--Object satu-->
         <div class="logo">
-          <h1>Eazy Learn</h1>
+          <h1>Science JHS</h1>
         </div>
         <!--Object dua-->
         <div class="menu">
