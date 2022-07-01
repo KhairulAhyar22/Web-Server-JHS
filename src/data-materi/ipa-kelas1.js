@@ -39,15 +39,15 @@ const ipa1bab1 = {
       <h4 class="title-smb2">1.	Klasifikasi Materi</h4>
       <p class="text-smb">Ketika mengumpulkan sekelompok benda berdasarkan sifatnya, langkah-langkah yang dapat dilakukan adalah sebagai berikut.<br>•	Mengamati karakteristik benda tersebut.<br>•	Mencatat persamaan dan perbedaan sifat benda masing–masing.<br>•	Memasukkan benda-benda yang memiliki persamaan sifat ke dalam satu kelompok.<br>•	Memberi nama yang sesuai pada setiap kelompok benda tersebut.</p>
       <p class="text-smb">Para ilmuwan mengklasifikasi materi agar lebih mudah dipelajari dan disusun secara sistematis. Materi adalah sesuatu yang mempunyai massa dan dapat menempati sebuah ruang. Materi berdasarkan wujudnya dapat dikelompokkan menjadi zat padat, cair, dan gas.</p>
-      <img class="img-smb"src="./images/kelassatu/IPA/materi.png" alt="gambar">
+      <img class="img-smb" src="./images/kelassatu/IPA/materi.png" alt="gambar">
 
       <h4 class="title-smb2">2.	Unsur, Senyawa, dan Campuran</h4>
-      <img class="img-smb"src="./images/kelassatu/IPA/senyawa.png" alt="senyawa">
+      <img class="img-smb" src="./images/kelassatu/IPA/senyawa.png" alt="senyawa">
 
       <h5 class="title-smb3">a. Unsur</h5>
       <p class="text-smb">Unsur merupakan zat tunggal yang tidak dapat diuraikan lagi menjadi zat yang lebih sederhana dengan cara kimia biasa. Bagian terkecil dari unsur adalah atom. Contoh adalah sebongkah emas apabila dibagi Unsur merupakan zat tunggal yang tidak dapat diubah lagi menjadi zat yang lebih sederhana. terus sampai bagian yang terkecil akan menjadi atom emas.</p>
       <p class="text-smb">Para ahli kimia juga menggunakan simbol atau lambang untuk menunjukkan perbedaan antara unsur kimia yang satu dengan yang lainnya. Ahli kimia sudah menemukan unsur sejak abad ke-9 dan secara bertahap terus berkembang sampai abad ke-20. Unsur di alam dapat dibagi menjadi dua jenis, yaitu unsur logam dan non logam.</p>
-      <img class="img-smb"src="./images/kelassatu/IPA/unsur.png" alt="unsur">
+      <img class="img-smb" src="./images/kelassatu/IPA/unsur.png" alt="unsur">
       
       <h5 class="title-smb3">b.	Senyawa</h5>
       <p class="text-smb">senyawa merupakan zat tunggal yang dapat diuraikan menjadi dua jenis atau lebih zat yang lebih sederhana dengan cara kimia. Misalnya, air yang memiliki rumus H2 O dapat diuraikan menjadi unsur hidrogen (H2) dan oksigen (O2). Senyawa terbentuk melalui proses pencampuran zat secara kimia, pembakaran atau penguraian (dekomposisi) secara termal ataupun elektrik. Sifat suatu senyawa akan berbeda dengan unsurunsur penyusunnya.</p>
@@ -100,7 +100,7 @@ const ipa1bab2 = {
 
       <h5 class="title-smb3">c.	Waktu </h5>
       <p class="text-smb">Waktu adalah selang antara  dua kejadian atau dua peristiwa. Misalnya, waktu hidup seseorang dimulai sejak ia dilahirkan hingga meninggal, waktu perjalanan diukur sejak    mulai bergerak sampai dengan akhir gerak. Waktu dapat diukur dengan jam tangan atau stopwatch. Satuan SI untuk waktu adalah detik atau sekon (s).</p>
-      <img class="img-smb"src="./images/kelassatu/IPA/bp.jpg" alt="besaran pokok">
+      <img class="img-smb" src="./images/kelassatu/IPA/bp.jpg" alt="besaran pokok">
 
       <h4 class="title-smb2">3.	Besaran Turunan</h4>
       <p class="text-smb">Besaran turunan merupakan satuan besaran yang diturunkan dari besaran pokok. Besaran-besaran yang dapat diukur selain 7 (tujuh) besaran pokok di atas tergolong sebagai besaran turunan contoh besaran turunan yaitu luas, volume, konsentrasi larutan, dan laju pertumbuhan. Besaran turunan akan dijelaskan lebih lanjut pada materi-materi selanjutnya.              </p>
@@ -124,7 +124,7 @@ const ipa1bab3 = {
         </div>      
 
         <h3 class="title-smb1">A.	Klasifikasi Dikotom dan Kunci Determinasi</h3>
-        <img class="img-smb"src="./images/kelassatu/IPA/dicotom.png" alt="dicotom">
+        <img class="img-smb" src="./images/kelassatu/IPA/dicotom.png" alt="dicotom">
         <p class="text-smb">Urutan ini didasarkan atas persamaan ciri yang paling umum, kemudian makin ke bawah persamaan ciri makin khusus serta perbedaan ciri makin kecil. Orang yang pertama melakukan pengelompokan ini adalah Linnaeus (1707-1778) berdasarkan kategori yang digunakan pada waktu itu.</p>
 
         <div class="box-sub">
@@ -139,7 +139,7 @@ const ipa1bab3 = {
         </div>
         <h3 class="title-smb1">B.	Kelompok Makhluk Hidup yang Berukuran Kecil (Mikroskopis)</h3>
         <p class="text-smb">Pada pengamatan makhluk hidup yang berukuran kecil, kamu memerlukan alat bantu yang disebut mikroskop. </p>
-        <img class="img-smb"src="./images/kelassatu/IPA/mikroskop.png" alt="mikroskop">
+        <img class="img-smb" src="./images/kelassatu/IPA/mikroskop.png" alt="mikroskop">
         <p class="text-smb">Bagian-bagian microskop dan fungsinya:</p>
         
         <div class="box-sub">
@@ -166,7 +166,7 @@ const ipa1bab3 = {
         <div class="box-sub">
           <h4 class="title-smb2">1.	Protista</h4>
           <p class="text-smb">kelompok Protista. Merupakan makhluk hidup yang mempunyai ciri-ciri sebagai berikut:<br>-	selnya memiliki membran inti (eukariotik)<br>-	bersel tunggal yang mampu berkembang biak.<br>-	contoh kelompok Protista: Amoeba, Euglena, Paramecium, Saprolegnia.</p>
-          <img class="img-smb"src="./images/kelassatu/IPA/bakteri.png" alt="bakteri">
+          <img class="img-smb" src="./images/kelassatu/IPA/bakteri.png" alt="bakteri">
           <p class="text-smb">Protista juga ada yang menyerupai hewan. Kelompok Protista ini disebut protozoa. Kelompok protozoa di antaranya adalah Paramecium, Entamoeba coli yang terdapat pada usus besar dan dapat mengakibatkan penyakit diare, dan Plasmodium malariae yang terdapat pada sel darah merah dan mengakibatkan penyakit malaria</p>
           <h4 class="title-smb2">2.	Monera</h4>
           <p class="text-smb">Mempunyai ciri-ciri: <br>-	selnya tidak memiliki membran inti (prokariotik), <br>-	bersel satu yang mampu untuk berkembang biak dengan membelah diri. <br>-	Contoh kelompok Monera ialah bakteri dan alga biru.</p>
@@ -230,7 +230,7 @@ const ipa1bab4 = {
       membran inti.
     </p>
     <div class="img-container">
-      <img class="img-smb"src="./images/kelassatu/IPA/4.selProkariotik.jpg" alt="Bagian sel prokariotik">
+      <img class="img-smb" src="./images/kelassatu/IPA/4.selProkariotik.jpg" alt="Bagian sel prokariotik">
     </div>
     <p class="text-smb">
       Sel prokariotik terdapat pada bakteri, termasuk sianobakteri. Sel Prokariota strukturnya lebih sederhana daripada struktur 
